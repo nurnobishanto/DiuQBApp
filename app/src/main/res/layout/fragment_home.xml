@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".Fragment.HomeFragment">
+
+
+    <Button
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnExamQuestion"
+        android:paddingVertical="25dp"
+        android:drawableTop="@drawable/question"
+        android:background="@drawable/spinner_border"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Exam Question"/>
+
+    <Button
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnELibrary"
+        android:paddingVertical="25dp"
+        android:drawableTop="@drawable/elibrary"
+        android:background="@drawable/spinner_border"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="E-Library"/>
+    <Button
+        android:layout_margin="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnMySaves"
+        android:paddingVertical="25dp"
+        android:drawableTop="@drawable/ic_bookmark_72"
+        android:background="@drawable/spinner_border"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="My Saves"/>
+
+
+
+
+
+</LinearLayout>

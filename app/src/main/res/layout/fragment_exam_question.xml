@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.ExamQuestionFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:orientation="vertical">
+
+        <Spinner
+            android:background="@drawable/spinner_border"
+            android:id="@+id/spinnerSemester"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_centerHorizontal="true" />
+
+        <!-- Spinner for selecting department -->
+        <Spinner
+            android:background="@drawable/spinner_border"
+            android:id="@+id/spinnerDepartment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/spinnerSemester"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:layout_centerHorizontal="true" />
+
+        <!-- Spinner for selecting year -->
+        <Spinner
+            android:background="@drawable/spinner_border"
+            android:id="@+id/spinnerYear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/spinnerDepartment"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="18dp"
+            android:layout_centerHorizontal="true" />
+        <Button
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:drawableLeft="@drawable/ic_pdf"
+            android:background="@drawable/spinner_border"
+            android:id="@+id/btnQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PDF Question"/>
+        <Button
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:drawableLeft="@drawable/ic_solve"
+            android:background="@drawable/spinner_border"
+            android:id="@+id/btnSolutions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Solutions"/>
+        <Button
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:drawableLeft="@drawable/ic_note"
+            android:background="@drawable/spinner_border"
+            android:id="@+id/btnHandNotes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HandNotes"/>
+        <Button
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:drawableLeft="@drawable/ic_slide"
+            android:background="@drawable/spinner_border"
+            android:id="@+id/btnSlides"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Slides"/>
+
+    </LinearLayout>
+
+
+</ScrollView>

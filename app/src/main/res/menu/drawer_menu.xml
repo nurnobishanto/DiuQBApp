@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_home"
+            android:id="@+id/navHome"
+            android:title="Home" />
+        <item
+            android:icon="@drawable/ic_use"
+            android:id="@+id/navHowToUse"
+            android:title="How to Use" />
+        <item
+            android:icon="@drawable/ic_favorite"
+            android:id="@+id/navSaves"
+            android:title="Saves" />
+        <item
+            android:icon="@drawable/ic_info"
+            android:id="@+id/navAbout"
+            android:title="About" />
+        <item
+            android:icon="@drawable/ic_contact"
+            android:id="@+id/navContactUs"
+            android:title="Contact Us" />
+        <item
+            android:icon="@drawable/ic_refresh"
+            android:id="@+id/navReload"
+            android:title="Reload" />
+        <item
+            android:icon="@drawable/ic_add_card"
+            android:id="@+id/navSubscribe"
+            android:title="Subscribe" />
+        <item
+            android:icon="@drawable/ic_warning"
+            android:id="@+id/navLogout"
+            android:title="Logout" />
+    </group>
+</menu>

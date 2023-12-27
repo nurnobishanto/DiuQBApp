@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/drawable/button_click_animation.xml" value="0.167" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/drawable/button_default.xml" value="0.168" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/drawable/button_pressed.xml" value="0.167" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/drawable/ic_note.xml" value="0.253" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/drawable/ic_pdf.xml" value="0.253" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/drawable/ic_refresh.xml" value="0.253" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/drawable/ic_slide.xml" value="0.253" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/drawable/spinner_border.xml" value="0.167" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/activity_pdf.xml" value="0.2609375" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/activity_pdf_view.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/activity_ppt.xml" value="0.2609375" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/activity_registration.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/activity_splash.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/drawer_menu.xml" value="0.1546875" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/fragment_about.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/fragment_contact_us.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/fragment_e_library.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/fragment_exam_question.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/fragment_home.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/fragment_how_to_use.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/fragment_my_saves.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/item_document.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/item_save_document.xml" value="0.1546875" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/nav_header.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/spinner_item_layout.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/layout/toolbar.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/menu/drawer_menu.xml" value="0.1546875" />
+        <entry key="..\:/Users/mdnur/AndroidStudioProjects/DIUQuestionBank/app/src/main/res/xml/network_security_config.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/mdnur/AppData/Local/Android/Sdk/platforms/android-33/data/res/layout/simple_spinner_item.xml" value="0.1546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
